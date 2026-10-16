@@ -22,3 +22,8 @@ Place the CSV at data/ai4i2020.csv.
 
 ## Run
 streamlit run app.py
+# Model Evaluation Reports
+
+The application generates model_metrics.csv after model training.
+Include measured evaluation results and screenshots here.
+Do not report unmeasured performance values.
