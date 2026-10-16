@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.env
+*.db
+models/*.joblib
+data/*.csv
+reports/*.csv
